@@ -1,6 +1,9 @@
 # Loading data in python 
 
 ## Source:
+Loading in your own data - Deep Learning basics with Python, TensorFlow and Keras p.2
+by: sentdex
+Link: https://youtu.be/j-3vuBynnOE
 
 ## Summary:
 I have loaded images from the microsoft kaggle cats and dogs library.
